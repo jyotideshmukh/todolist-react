@@ -48,3 +48,20 @@
   padding: 5px;
   margin: 5px;
 }
+
+li{
+  list-style: none;
+  width: 90%;
+  margin-top: 5px;
+  display: flex;
+}
+.todospan{
+  width: 80%;
+  
+}
+.tododelete{
+  align-self:right;
+  width: 5%;
+  
+}
+
